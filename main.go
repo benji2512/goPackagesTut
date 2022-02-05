@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/benji2512/multiple-package/cmd"
+	"github.com/benji2512/goPackagesTut/cmd"
 )
 
 func main() {
